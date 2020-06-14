@@ -1,7 +1,6 @@
-# **Aprendizado**
-Meus arquivos de aprendizagem de Python e DS
+
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner1.png" >
 </p>
 
 # Carol Bastos
