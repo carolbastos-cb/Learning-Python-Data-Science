@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner1.jpeg" >
+  <img src="banner2.jpg" >
 </p>
 
 # Carol Bastos
