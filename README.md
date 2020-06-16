@@ -19,7 +19,8 @@ My credentials include a Degree in Physical Education and quita a few hours stud
 
 ## Projetos:
 
-* **[Como usar o Histograma para Data Science](https://bit.ly/2L2cMwy)**
+* **[Analisando dados do Airbnb - Amsterdam](https://github.com/carolbastos-cb/Python-Data-Science-and-Sports/blob/master/Projeto_1_Analisando_os_Dados_do_Airbnb_Amsterdam.ipynb)**
+
 
 
 ---
