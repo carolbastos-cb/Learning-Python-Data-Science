@@ -19,7 +19,7 @@ My credentials include a Degree in Physical Education and quita a few hours stud
 
 ## Projetos:
 
-* **[Analisando dados do Airbnb - Amsterdam](https://github.com/carolbastos-cb/Python-Data-Science-and-Sports/blob/master/Projeto_1_Analisando_os_Dados_do_Airbnb_Amsterdam.ipynb)**
+* **[Analisando dados do Airbnb - Amsterdam](https://github.com/carolbastos-cb/Learning-Python-Data-Science/blob/master/Projeto_1_Analisando_os_Dados_do_Airbnb_Amsterdam.ipynb)**
 
 
 
