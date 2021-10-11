@@ -1,3 +1,4 @@
+[![author](https://img.shields.io/badge/author-CarolBastos-red.svg)](https://www.linkedin.com/in/carolinabastoscb/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carolbastos-cb/Learning-Python-Data-Science/issues)
 
 <p align="center">
   <img src="banner2.jpg" >
@@ -11,10 +12,6 @@ Experienced sports manager with background in data monitoring and data analysis.
 My credentials include a Degree in Physical Education and quita a few hours studing statistics, Python and Data Science.
 
 **Background in:** Python, Machine Learning, Sports and Olympics.
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/carolinabastoscb)
-
 
 
 ## Projetos:
